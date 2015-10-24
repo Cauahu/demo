@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445669908 source:/home/cauahu/C++/workspace/demo/main.cpp
+	<iostream>
+	<vector>
+
